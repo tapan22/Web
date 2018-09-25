@@ -1,0 +1,38 @@
+students
+{
+	background-color:teal;
+	display:block;
+	max-width:10%;
+	margin-top:20px;
+	margin-left:500px;
+}
+stu
+{
+	padding:20px;
+}
+usn
+{
+	
+	font-weight:bold;
+	color:red;
+}
+name
+{
+	display:block;
+}
+college
+{
+	display:block;
+}
+branch
+{
+	display:block;
+}
+year
+{
+	display:block;
+}
+email
+{
+	display:block;
+}

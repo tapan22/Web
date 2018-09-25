@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="stud.css"?>
+<students>
+	<stu>
+	<usn>USN:</usn><number>4VV15CS118</number>
+	<name>Name:john</name>
+	<college>College:VVCE</college>
+	<branch>Branch:CSE</branch>
+	<year>Year:2018</year>
+	<email>Email:john@vvce.in</email>
+	</stu>
+	<stu>
+	<usn>USN:4VV15CS119</usn>
+	<name>Name:jack</name>
+	<college>College:VVCE</college>
+	<branch>Branch:CSE</branch>
+	<year>Year:2017</year>
+	<email>Email:jack@vvce.in</email>
+	</stu>
+	<stu>
+	<usn>USN:4VV15CS120</usn>
+	<name>Name:sam</name>
+	<college>College:VVCE</college>
+	<branch>Branch:CSE</branch>
+	<year>Year:2016</year>
+	<email>Email:john@vvce.in</email>
+	</stu>
+</students>
